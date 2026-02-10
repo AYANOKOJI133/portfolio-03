@@ -111,7 +111,7 @@ const projects: Project[] = [
   {
     id: 5,
     title: 'Cyber_Type',
-    category: 'web',
+    category: 'game',
     description: 'FastTyping is a browser-based typing speed trainer that helps users improve accuracy and words-per-minute (WPM) through real-time feedback. It features dynamic text challenges, live error highlighting, countdown timers, performance statistics, and a clean, responsive interface optimized for both desktop and mobile devices.',
     codeLink: 'https://github.com/AYANOKOJI133/fast-typing.git',
     liveLink: 'https://ayanokoji133.github.io/fast-typing/',
@@ -121,7 +121,7 @@ const projects: Project[] = [
   {
     id: 6,
     title: 'Cyber_Maze',
-    category: 'web',
+    category: 'game',
     description: 'RoboMaze is a browser-based maze game where players control a robotic explorer through industrial-style labyrinths inspired by mechatronics environments. It features smooth keyboard controls, animated mechanical obstacles, sensor-themed traps, timed challenges, and progressively harder levels in a responsive web interface.',
     codeLink: 'https://github.com/AYANOKOJI133/cyber-maze.git',
     liveLink: 'https://ayanokoji133.github.io/cyber-maze/',
