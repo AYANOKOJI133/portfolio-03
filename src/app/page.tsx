@@ -779,6 +779,15 @@ export default function Portfolio() {
                       Interactive 3D
                     </Badge>
                   </div>
+                  {/* Hover overlay - View 3D Model */}
+                  <div className="absolute inset-0 bg-black/0 group-hover:bg-black/20 transition-colors flex items-center justify-center">
+                    <div className="opacity-0 group-hover:opacity-100 transition-opacity transform translate-y-4 group-hover:translate-y-0">
+                      <span className="inline-flex items-center gap-2 px-4 py-2 bg-purple-500/90 text-white rounded-full font-medium">
+                        <Box className="w-4 h-4" />
+                        View 3D Model
+                      </span>
+                    </div>
+                  </div>
                 </div>
                 <CardHeader className="p-4">
                   <CardTitle className="text-lg sm:text-xl text-white">{project.title}</CardTitle>
