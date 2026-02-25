@@ -50,8 +50,8 @@ const profile = {
     { name: 'Data Structures', level: 40, icon: <Target className="w-6 h-6" /> },
   ],
   stats: [
-    { value: '17+', label: 'C Games Built', icon: <Code className="w-5 h-5" /> },
-    { value: '5+', label: 'Web Projects', icon: <Award className="w-5 h-5" /> },
+    { value: '5+', label: '3D models', icon: <box className="w-5 h-5" /> },
+    { value: '5+', label: 'Web Projects', icon: <Code className="w-5 h-5" /> },
     { value: '19', label: 'Years Old', icon: <Target className="w-5 h-5" /> },
     { value: 'ENSA', label: 'CP2 Student', icon: <Zap className="w-5 h-5" /> },
   ],
